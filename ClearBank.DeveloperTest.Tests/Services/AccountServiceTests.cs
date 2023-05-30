@@ -40,7 +40,7 @@ namespace ClearBank.DeveloperTest.Tests.Services
         {
             // Arrange
             var account = new Account { Balance = 500 };
-            var amountToDeduct = 100m;
+            var amountToDeduct = 100;
 
             // Act
             _accountService.DeductFromBalance(account, amountToDeduct);
