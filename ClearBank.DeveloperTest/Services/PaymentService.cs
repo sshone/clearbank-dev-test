@@ -34,7 +34,7 @@ namespace ClearBank.DeveloperTest.Services
 
             return new MakePaymentResult
             {
-                Success = paymentSchemeIsValid
+                Success = true
             };
         }
     }
