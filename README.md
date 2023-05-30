@@ -3,4 +3,4 @@ This repository contains an implementation of a payment processing system which 
 
 I have created a **TestRunApplication** project which is there to demonstrate using Dependency Injection to run the code. 
 
-This will currently always return a 'false' for each payment as the account retrieval logic is stubbed and the stubbed account returned contains no 'AllowedPaymentScheme', meaning validation fails.
+Running this TestRunApplication project will currently always return a 'false' for the payment as the account retrieval logic is stubbed and the stubbed account returned contains no 'AllowedPaymentScheme', meaning validation fails.
