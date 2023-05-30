@@ -1,5 +1,5 @@
 # ClearBank - C# Developer Test
-This repository contains an implementation of a payment processing system which I have refactored as part of an interview process for a Software Developer role.
+This repository contains a stubbed implementation of a payment processing system which I have refactored as part of an interview process for a Software Developer role.
 
 I have created a **TestRunApplication** project which is there to demonstrate using Dependency Injection to run the code. 
 
